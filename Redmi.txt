@@ -1,0 +1,15 @@
+Summary of Workflow
+
+Select models: FaceNet and VGG-Face.
+
+Choose dataset: LFW.
+
+Preprocess images (resize, align if necessary).
+
+Load pretrained models (deepface or keras-facenet).
+
+Extract embeddings for all images.
+
+Compare embeddings for verification or identification.
+
+Evaluate performance using accuracy or ROC.
