@@ -1,0 +1,9 @@
+numpy
+opencv-python
+tqdm
+matplotlib
+scikit-learn
+Pillow
+tensorflow
+keras-facenet
+deepface
